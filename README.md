@@ -5,3 +5,7 @@
 - [Luan Ferreira de Almeida](https://github.com/umanzel);
 - [Pierre Vieira](https://github.com/PierreVieira/);
 - [Thiago Danilo](https://github.com/BoltSheep)
+
+## Tecnologias usadas:
+
+- React
